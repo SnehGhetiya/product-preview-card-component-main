@@ -131,6 +131,7 @@ body {
 @media(min-width: 600px) {
   .product {
 	--content-padding: 2em;
+	--button-padding: 1em 1.5em;
 
     display: grid;
     grid-template-columns: 1fr 1fr;
